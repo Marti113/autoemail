@@ -1,0 +1,6 @@
+lib/**
+**/__pycache__/**
+src/secret_key.py
+.idea
+bin/
+venv/
